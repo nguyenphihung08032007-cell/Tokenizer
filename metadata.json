@@ -1,0 +1,11 @@
+{
+  "name": "VLINE: Việt Phục Remix",
+  "description": "Nền tảng khám phá di sản, phối thử Việt phục 3D theo số đo cơ thể và phân tích trang phục bằng AI dành cho thế hệ Gen Z — Nối mạch ngàn năm, vẽ nét thời đại.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
